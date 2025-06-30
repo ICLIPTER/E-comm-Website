@@ -17,3 +17,4 @@ A full-featured e-commerce web application built with [your tech stack, e.g. Rea
    ```bash
    git clone https://github.com/ICLIPTER/E-comm-Website.git
    cd E-comm-Website
+   npm install
