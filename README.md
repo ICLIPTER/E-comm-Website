@@ -2,6 +2,7 @@
 
 A full-featured e-commerce web application built with [your tech stack, e.g. React, Node.js, MongoDB]. This project demonstrates product listings, shopping cart functionality, checkout flows, and user authentication.
 
+TEST THIS ON: https://project-e-comm.netlify.app/
 
 ## ✨ Features
 
