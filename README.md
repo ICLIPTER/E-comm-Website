@@ -19,4 +19,3 @@ TEST THIS ON: https://project-e-comm.netlify.app/
    git clone https://github.com/ICLIPTER/E-comm-Website.git
    cd E-comm-Website
    npm install
-   npm run dev
